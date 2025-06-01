@@ -7,7 +7,9 @@ From the dataset, divide the into 3 main aspects that needs to be analyzed:
 - Orders & Delivery time
 - Returned rate (Possible root causes)
 
-**2/ Dashboard UI: ** 
+**2/ Dashboard UI:**  
+![Page1-2](test1.drawio.png)
+![Page3-4](test2.drawio.png)
 
 **2/ Key Insights:**  
 
